@@ -13,6 +13,4 @@
 
 ![asset](https://raw.githubusercontent.com/drowning-cat/assets/refs/heads/main/mini/export/x-mini-max.png)
 
-![asset](https://raw.githubusercontent.com/drowning-cat/assets/refs/heads/main/mini/export/x-mini-max--hide-tree.png)
-
 ![asset](https://raw.githubusercontent.com/drowning-cat/assets/refs/heads/main/mini/export/x-mini-max-fireworks.png)
